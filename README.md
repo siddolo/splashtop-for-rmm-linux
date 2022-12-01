@@ -1,6 +1,6 @@
 # Splashtop for RMM in Linux
 
-Tested with NinjaRMM and Ubuntu 22.04 LTS
+Tested with NinjaRMM and Ubuntu 22.04 LTS with wine-7.22 (Staging)
 
 ## Requirements
 

@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Splashtop Viewer
+Exec=bash -c 'echo "%u" | sed "s#st-rmm://##g" | xargs wine "$HOME/.wine/drive_c/Program Files (x86)/Splashtop/Splashtop Remote/Client for RMM/clientoobe.exe" "-a"'
+Type=Application
+Terminal=false
+MimeType=x-scheme-handler/st-rmm;
